@@ -41,3 +41,7 @@ I began to learn about programming at the end of 2018 by independently studying 
 * *2017 - 2018* - Faculty "graduate education and career guidance", Belarusian State University of transport; Master's degree in Technology and Technology.
 * *2012 - 2017* - Faculty "management of transportation processes", Belarusian State University of transport. Qualification: engineer-inspector.  
 
+---
+
+### ENGLISH LEVEL
+Pre-Intermediate (A2), but I keep learn English to this day.
