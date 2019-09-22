@@ -30,3 +30,14 @@ I have such character traits as perseverance, determination, quick training, att
 Some examples of my self-education results you can see [here](https://github.com/IrinaBorkina).
 
 ---
+
+### EXPERIENCE
+I have no work-experience, but I have a great desire to get it.  
+I began to learn about programming at the end of 2018 by independently studying various information on the Internet (YouTube-lessons, [learn.javascript.ru](http://learn.javascript.ru), [Codecademy](https://www.codecademy.com/users/IrinaBorkina/achievements), [HTMLAcademy](https://htmlacademy.ru/profile/id891963/achievements)). In February 2019, I started training at The Rolling Scope School and studied in two stages.  
+
+---
+
+### EDUCATION 
+* *2017 - 2018* - Faculty "graduate education and career guidance", Belarusian State University of transport; Master's degree in Technology and Technology.
+* *2012 - 2017* - Faculty "management of transportation processes", Belarusian State University of transport. Qualification: engineer-inspector.  
+
