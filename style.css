@@ -1,0 +1,85 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+*, *::after, *::before {
+    box-sizing: inherit;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #eaeaea;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    color: #ababab;
+    background-color: #313131;
+}
+
+.profile-photo img {
+    margin: 80px 0;
+}
+
+.profile-info {
+    margin: 50px 30px 50px;
+}
+
+.heading {
+    margin: 0;
+    padding-bottom: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.heading-light {
+    font-size: 16px;
+    color: #fff;
+    border-bottom: 2px dashed #5a5a5a;
+}
+
+.profile-text {
+    margin-bottom: 30px;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1.5px;
+}
+
+.contacts-title {
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+}
+
+i {
+    padding-right: 8px;
+}
+
+.contacts-text {
+    padding-left: 25px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #ababab;
+    text-decoration: none;
+}
+
+.contacts-text:hover {
+    color: #fff;
+}
+
+.contacts-item {
+    padding-bottom: 15px;
+    border-bottom: 2px dashed #5a5a5a;
+}
+
+address {
+    font-style: normal;
+}
