@@ -216,3 +216,29 @@ address {
 .level-30::before {
     width: 30%;
 }
+
+
+.footer {
+    background: #313131;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    text-align: center;
+}
+
+.about-contacts {
+    font-size: 14px;
+}
+
+.about-contacts__link {
+    padding: 0 20px;
+    text-decoration: none;
+    color: #b6b6b6;
+}
+
+.about-contacts__link:hover {
+    color: #fff;
+}
